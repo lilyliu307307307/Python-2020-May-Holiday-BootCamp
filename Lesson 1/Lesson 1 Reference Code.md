@@ -29,4 +29,11 @@ for i in range(1, 101):
   sum = sum + i
 print(sum)
 
+
+import turtle
+t = turtle.Turtle()
+t.color("blue")
+t.pensize(5)
+t.circle(100)
+
 ```
