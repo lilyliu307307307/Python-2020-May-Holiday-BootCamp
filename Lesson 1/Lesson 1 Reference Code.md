@@ -33,7 +33,7 @@ print(sum)
 from turtle import *
 color("red")
 pensize(5)
-circle(100))
+circle(100)
 
 
 # draw a square
