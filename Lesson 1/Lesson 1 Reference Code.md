@@ -29,11 +29,24 @@ for i in range(1, 101):
   sum = sum + i
 print(sum)
 
+# draw a circle
+from turtle import *
+color("red")
+pensize(5)
+circle(100))
 
-import turtle
-t = turtle.Turtle()
-t.color("blue")
-t.pensize(5)
-t.circle(100)
+
+# draw a square
+from turtle import *
+color("red")
+pensize(3)
+
+forward(150)
+left(90)
+forward(150)
+left(90)
+forward(150)
+left(90)
+forward(150)
 
 ```
