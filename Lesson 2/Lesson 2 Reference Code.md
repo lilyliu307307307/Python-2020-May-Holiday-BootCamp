@@ -1,3 +1,15 @@
+### Python Identifiers
+* Python Identifiers are used to define the name of varibles, function, class, structure, etc.
+* Identifiers can be a combination of letters in lowercase (a to z) or uppercase (A to Z) or digits (0 to 9) or an underscore (_). Names like myClass, var_1 and print_this_to_screen, all are valid identifiers.
+* Space is not allowed in an identifier
+* An identifier cannot start with a digit. 1variable is invalid, but variable1 is perfectly fine.
+* Keywords (like if, else, True) cannot be used as identifiers.
+* Special symbols (like !, @, #, $, % etc.) cannot be used as identifiers.
+* Do not use Python built-in data types (int, float, str, range, list, dict) as identifier
+* Python is a case-sensitive language. This means, Count and count are completely different
+
+
+
 ```python
 
 
